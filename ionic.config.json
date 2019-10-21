@@ -1,5 +1,7 @@
 {
   "name": "cor-ion",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
